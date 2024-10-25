@@ -1,20 +1,21 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Categories - Category - My Blog</title>
-    <link>http://localhost:1313/categories/</link>
+    <title>Multilingual - Category - My Blog</title>
+    <link>http://localhost:1313/categories/multilingual/</link>
     <description>My Blog</description>
     <generator>Hugo 0.136.4 &amp; FixIt v0.3.13</generator>
     <language>en</language>
     <copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright>
     <lastBuildDate>Thu, 24 Oct 2024 23:12:54 -0400</lastBuildDate>
-    <atom:link href="http://localhost:1313/categories/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/categories/multilingual/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Multilingual</title>
-      <link>http://localhost:1313/categories/multilingual/</link>
+      <title>Test</title>
+      <link>http://localhost:1313/posts/828522d/</link>
       <pubDate>Thu, 24 Oct 2024 23:12:54 -0400</pubDate>
-      <guid>http://localhost:1313/categories/multilingual/</guid>
-      <description>Multilingual</description>
+      <guid>http://localhost:1313/posts/828522d/</guid>
+      <category domain="http://localhost:1313/categories/multilingual/">Multilingual</category>
+      <description>Test</description>
     </item>
   </channel>
 </rss>

@@ -5,16 +5,17 @@
     <link>http://localhost:1313/posts/</link>
     <description>My Blog</description>
     <generator>Hugo 0.136.4 &amp; FixIt v0.3.13</generator>
-    <language>en-us</language>
+    <language>en</language>
+    <copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright>
     <lastBuildDate>Thu, 24 Oct 2024 23:12:54 -0400</lastBuildDate>
     <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Mypost</title>
+      <title>Test</title>
       <link>http://localhost:1313/posts/828522d/</link>
       <pubDate>Thu, 24 Oct 2024 23:12:54 -0400</pubDate>
       <guid>http://localhost:1313/posts/828522d/</guid>
-      <category domain="http://localhost:1313/categories/123/">123</category>
-      <description>Mypost</description>
+      <category domain="http://localhost:1313/categories/multilingual/">Multilingual</category>
+      <description>Test</description>
     </item>
   </channel>
 </rss>
