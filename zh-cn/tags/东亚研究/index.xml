@@ -2,19 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>东亚研究 - 标签 - Shannon的小站</title>
-    <link>http://localhost:6553/zh-cn/tags/%E4%B8%9C%E4%BA%9A%E7%A0%94%E7%A9%B6/</link>
+    <link>http://localhost:1313/zh-cn/tags/%E4%B8%9C%E4%BA%9A%E7%A0%94%E7%A9%B6/</link>
     <description>Shannon的小站</description>
     <generator>Hugo 0.136.4 &amp; FixIt v0.3.13</generator>
     <language>zh-CN</language>
     <copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright>
     <lastBuildDate>Mon, 13 Dec 2021 23:38:31 -0400</lastBuildDate>
-    <atom:link href="http://localhost:6553/zh-cn/tags/%E4%B8%9C%E4%BA%9A%E7%A0%94%E7%A9%B6/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/zh-cn/tags/%E4%B8%9C%E4%BA%9A%E7%A0%94%E7%A9%B6/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>广告中的消费主义</title>
-      <link>http://localhost:6553/zh-cn/posts/04a2b05/</link>
+      <link>http://localhost:1313/zh-cn/posts/04a2b05/</link>
       <pubDate>Mon, 13 Dec 2021 23:38:31 -0400</pubDate><author>zl4061@nyu.edu (Shannon Li)</author>
-      <guid>http://localhost:6553/zh-cn/posts/04a2b05/</guid>
-      <category domain="http://localhost:6553/zh-cn/categories/%E7%A0%94%E7%A9%B6%E8%AE%BA%E6%96%87/">研究论文</category>
+      <guid>http://localhost:1313/zh-cn/posts/04a2b05/</guid>
+      <category domain="http://localhost:1313/zh-cn/categories/%E7%A0%94%E7%A9%B6%E8%AE%BA%E6%96%87/">研究论文</category>
       <description>广告中的消费主义</description>
     </item>
   </channel>

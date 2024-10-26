@@ -2,116 +2,109 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags - Tag - Shannon&#39;s Site</title>
-    <link>http://localhost:6553/tags/</link>
+    <link>http://localhost:1313/tags/</link>
     <description>Shannon&#39;s Site</description>
     <generator>Hugo 0.136.4 &amp; FixIt v0.3.13</generator>
     <language>en</language>
     <copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright>
-    <lastBuildDate>Sat, 26 Oct 2024 01:42:01 -0400</lastBuildDate>
-    <atom:link href="http://localhost:6553/tags/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Film</title>
-      <link>http://localhost:6553/tags/film/</link>
-      <pubDate>Sat, 26 Oct 2024 01:42:01 -0400</pubDate>
-      <guid>http://localhost:6553/tags/film/</guid>
-      <description>Film</description>
-    </item>
-    <item>
-      <title>Modernity</title>
-      <link>http://localhost:6553/tags/modernity/</link>
-      <pubDate>Sat, 26 Oct 2024 01:42:01 -0400</pubDate>
-      <guid>http://localhost:6553/tags/modernity/</guid>
-      <description>Modernity</description>
-    </item>
-    <item>
-      <title>Capitalism</title>
-      <link>http://localhost:6553/tags/capitalism/</link>
-      <pubDate>Sat, 26 Oct 2024 01:29:09 -0400</pubDate>
-      <guid>http://localhost:6553/tags/capitalism/</guid>
-      <description>Capitalism</description>
-    </item>
+    <lastBuildDate>Fri, 25 Oct 2024 01:20:48 -0400</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Literature</title>
-      <link>http://localhost:6553/tags/literature/</link>
-      <pubDate>Sat, 26 Oct 2024 01:29:09 -0400</pubDate>
-      <guid>http://localhost:6553/tags/literature/</guid>
+      <link>http://localhost:1313/tags/literature/</link>
+      <pubDate>Fri, 25 Oct 2024 01:20:48 -0400</pubDate>
+      <guid>http://localhost:1313/tags/literature/</guid>
       <description>Literature</description>
     </item>
     <item>
       <title>Philosophy</title>
-      <link>http://localhost:6553/tags/philosophy/</link>
-      <pubDate>Sat, 26 Oct 2024 01:29:09 -0400</pubDate>
-      <guid>http://localhost:6553/tags/philosophy/</guid>
+      <link>http://localhost:1313/tags/philosophy/</link>
+      <pubDate>Fri, 25 Oct 2024 01:20:48 -0400</pubDate>
+      <guid>http://localhost:1313/tags/philosophy/</guid>
       <description>Philosophy</description>
     </item>
     <item>
       <title>Psychoanalysis</title>
-      <link>http://localhost:6553/tags/psychoanalysis/</link>
-      <pubDate>Sat, 26 Oct 2024 01:29:09 -0400</pubDate>
-      <guid>http://localhost:6553/tags/psychoanalysis/</guid>
+      <link>http://localhost:1313/tags/psychoanalysis/</link>
+      <pubDate>Fri, 25 Oct 2024 01:20:48 -0400</pubDate>
+      <guid>http://localhost:1313/tags/psychoanalysis/</guid>
       <description>Psychoanalysis</description>
     </item>
     <item>
-      <title>Semiotics</title>
-      <link>http://localhost:6553/tags/semiotics/</link>
-      <pubDate>Sat, 26 Oct 2024 01:29:09 -0400</pubDate>
-      <guid>http://localhost:6553/tags/semiotics/</guid>
-      <description>Semiotics</description>
-    </item>
-    <item>
-      <title>Draft</title>
-      <link>http://localhost:6553/tags/draft/</link>
-      <pubDate>Fri, 25 Oct 2024 01:20:48 -0400</pubDate>
-      <guid>http://localhost:6553/tags/draft/</guid>
-      <description>Draft</description>
-    </item>
-    <item>
       <title>Animation</title>
-      <link>http://localhost:6553/tags/animation/</link>
-      <pubDate>Tue, 08 Feb 2022 00:51:41 -0400</pubDate>
-      <guid>http://localhost:6553/tags/animation/</guid>
+      <link>http://localhost:1313/tags/animation/</link>
+      <pubDate>Tue, 08 Mar 2022 00:51:41 -0400</pubDate>
+      <guid>http://localhost:1313/tags/animation/</guid>
       <description>Animation</description>
     </item>
     <item>
+      <title>Film</title>
+      <link>http://localhost:1313/tags/film/</link>
+      <pubDate>Tue, 08 Mar 2022 00:51:41 -0400</pubDate>
+      <guid>http://localhost:1313/tags/film/</guid>
+      <description>Film</description>
+    </item>
+    <item>
+      <title>Capitalism</title>
+      <link>http://localhost:1313/tags/capitalism/</link>
+      <pubDate>Tue, 01 Mar 2022 01:29:09 -0400</pubDate>
+      <guid>http://localhost:1313/tags/capitalism/</guid>
+      <description>Capitalism</description>
+    </item>
+    <item>
+      <title>Modernity</title>
+      <link>http://localhost:1313/tags/modernity/</link>
+      <pubDate>Tue, 01 Mar 2022 01:29:09 -0400</pubDate>
+      <guid>http://localhost:1313/tags/modernity/</guid>
+      <description>Modernity</description>
+    </item>
+    <item>
+      <title>Semiotics</title>
+      <link>http://localhost:1313/tags/semiotics/</link>
+      <pubDate>Tue, 01 Mar 2022 01:29:09 -0400</pubDate>
+      <guid>http://localhost:1313/tags/semiotics/</guid>
+      <description>Semiotics</description>
+    </item>
+    <item>
       <title>Consumerism</title>
-      <link>http://localhost:6553/tags/consumerism/</link>
+      <link>http://localhost:1313/tags/consumerism/</link>
       <pubDate>Mon, 13 Dec 2021 23:38:30 -0400</pubDate>
-      <guid>http://localhost:6553/tags/consumerism/</guid>
+      <guid>http://localhost:1313/tags/consumerism/</guid>
       <description>Consumerism</description>
     </item>
     <item>
       <title>East Asia Study</title>
-      <link>http://localhost:6553/tags/east-asia-study/</link>
+      <link>http://localhost:1313/tags/east-asia-study/</link>
       <pubDate>Mon, 13 Dec 2021 23:38:30 -0400</pubDate>
-      <guid>http://localhost:6553/tags/east-asia-study/</guid>
+      <guid>http://localhost:1313/tags/east-asia-study/</guid>
       <description>East Asia Study</description>
     </item>
     <item>
       <title>Fetishism</title>
-      <link>http://localhost:6553/tags/fetishism/</link>
+      <link>http://localhost:1313/tags/fetishism/</link>
       <pubDate>Mon, 13 Dec 2021 23:38:30 -0400</pubDate>
-      <guid>http://localhost:6553/tags/fetishism/</guid>
+      <guid>http://localhost:1313/tags/fetishism/</guid>
       <description>Fetishism</description>
     </item>
     <item>
       <title>Aesthetics</title>
-      <link>http://localhost:6553/tags/aesthetics/</link>
+      <link>http://localhost:1313/tags/aesthetics/</link>
       <pubDate>Mon, 29 Nov 2021 00:19:34 -0400</pubDate>
-      <guid>http://localhost:6553/tags/aesthetics/</guid>
+      <guid>http://localhost:1313/tags/aesthetics/</guid>
       <description>Aesthetics</description>
     </item>
     <item>
       <title>Architecture</title>
-      <link>http://localhost:6553/tags/architecture/</link>
+      <link>http://localhost:1313/tags/architecture/</link>
       <pubDate>Mon, 29 Nov 2021 00:19:34 -0400</pubDate>
-      <guid>http://localhost:6553/tags/architecture/</guid>
+      <guid>http://localhost:1313/tags/architecture/</guid>
       <description>Architecture</description>
     </item>
     <item>
       <title>Cyberpunk</title>
-      <link>http://localhost:6553/tags/cyberpunk/</link>
+      <link>http://localhost:1313/tags/cyberpunk/</link>
       <pubDate>Mon, 29 Nov 2021 00:19:34 -0400</pubDate>
-      <guid>http://localhost:6553/tags/cyberpunk/</guid>
+      <guid>http://localhost:1313/tags/cyberpunk/</guid>
       <description>Cyberpunk</description>
     </item>
   </channel>
