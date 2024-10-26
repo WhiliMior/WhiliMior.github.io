@@ -18,6 +18,22 @@
       <description>Booklist</description>
     </item>
     <item>
+      <title>Oedipus</title>
+      <link>http://localhost:1313/posts/7fcc04f/</link>
+      <pubDate>Mon, 23 Oct 2023 17:33:10 -0400</pubDate><author>zl4061@nyu.edu (Shannon Li)</author>
+      <guid>http://localhost:1313/posts/7fcc04f/</guid>
+      <category domain="http://localhost:1313/categories/prose/">Prose</category>
+      <description>Oedipus</description>
+    </item>
+    <item>
+      <title>Antigone</title>
+      <link>http://localhost:1313/posts/9fbbf41/</link>
+      <pubDate>Mon, 18 Sep 2023 17:19:31 -0400</pubDate>
+      <guid>http://localhost:1313/posts/9fbbf41/</guid>
+      <category domain="http://localhost:1313/categories/prose/">Prose</category>
+      <description>Antigone</description>
+    </item>
+    <item>
       <title>The Thing We Lost in Modernity</title>
       <link>http://localhost:1313/posts/eeb197f/</link>
       <pubDate>Tue, 01 Mar 2022 01:29:09 -0400</pubDate><author>zl4061@nyu.edu (Shannon Li)</author>

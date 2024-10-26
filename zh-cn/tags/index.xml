@@ -31,11 +31,60 @@
       <description>哲学</description>
     </item>
     <item>
+      <title>东亚研究</title>
+      <link>http://localhost:1313/zh-cn/tags/%E4%B8%9C%E4%BA%9A%E7%A0%94%E7%A9%B6/</link>
+      <pubDate>Mon, 11 Dec 2023 17:57:16 -0400</pubDate>
+      <guid>http://localhost:1313/zh-cn/tags/%E4%B8%9C%E4%BA%9A%E7%A0%94%E7%A9%B6/</guid>
+      <description>东亚研究</description>
+    </item>
+    <item>
+      <title>现代性</title>
+      <link>http://localhost:1313/zh-cn/tags/%E7%8E%B0%E4%BB%A3%E6%80%A7/</link>
+      <pubDate>Mon, 11 Dec 2023 17:57:16 -0400</pubDate>
+      <guid>http://localhost:1313/zh-cn/tags/%E7%8E%B0%E4%BB%A3%E6%80%A7/</guid>
+      <description>现代性</description>
+    </item>
+    <item>
       <title>电影</title>
       <link>http://localhost:1313/zh-cn/tags/%E7%94%B5%E5%BD%B1/</link>
-      <pubDate>Tue, 08 Mar 2022 00:51:41 -0400</pubDate>
+      <pubDate>Thu, 23 Nov 2023 16:51:20 -0400</pubDate>
       <guid>http://localhost:1313/zh-cn/tags/%E7%94%B5%E5%BD%B1/</guid>
       <description>电影</description>
+    </item>
+    <item>
+      <title>修辞学</title>
+      <link>http://localhost:1313/zh-cn/tags/%E4%BF%AE%E8%BE%9E%E5%AD%A6/</link>
+      <pubDate>Mon, 06 Nov 2023 17:40:10 -0400</pubDate>
+      <guid>http://localhost:1313/zh-cn/tags/%E4%BF%AE%E8%BE%9E%E5%AD%A6/</guid>
+      <description>修辞学</description>
+    </item>
+    <item>
+      <title>符号学</title>
+      <link>http://localhost:1313/zh-cn/tags/%E7%AC%A6%E5%8F%B7%E5%AD%A6/</link>
+      <pubDate>Thu, 12 Oct 2023 16:56:09 -0400</pubDate>
+      <guid>http://localhost:1313/zh-cn/tags/%E7%AC%A6%E5%8F%B7%E5%AD%A6/</guid>
+      <description>符号学</description>
+    </item>
+    <item>
+      <title>强迫症</title>
+      <link>http://localhost:1313/zh-cn/tags/%E5%BC%BA%E8%BF%AB%E7%97%87/</link>
+      <pubDate>Thu, 12 Oct 2023 16:56:09 -0400</pubDate>
+      <guid>http://localhost:1313/zh-cn/tags/%E5%BC%BA%E8%BF%AB%E7%97%87/</guid>
+      <description>强迫症</description>
+    </item>
+    <item>
+      <title>诠释学</title>
+      <link>http://localhost:1313/zh-cn/tags/%E8%AF%A0%E9%87%8A%E5%AD%A6/</link>
+      <pubDate>Tue, 12 Sep 2023 17:01:29 -0400</pubDate>
+      <guid>http://localhost:1313/zh-cn/tags/%E8%AF%A0%E9%87%8A%E5%AD%A6/</guid>
+      <description>诠释学</description>
+    </item>
+    <item>
+      <title>游戏</title>
+      <link>http://localhost:1313/zh-cn/tags/%E6%B8%B8%E6%88%8F/</link>
+      <pubDate>Sun, 05 Mar 2023 16:34:21 -0400</pubDate>
+      <guid>http://localhost:1313/zh-cn/tags/%E6%B8%B8%E6%88%8F/</guid>
+      <description>游戏</description>
     </item>
     <item>
       <title>动画</title>
@@ -43,20 +92,6 @@
       <pubDate>Tue, 08 Mar 2022 00:51:41 -0400</pubDate>
       <guid>http://localhost:1313/zh-cn/tags/%E5%8A%A8%E7%94%BB/</guid>
       <description>动画</description>
-    </item>
-    <item>
-      <title>符号学</title>
-      <link>http://localhost:1313/zh-cn/tags/%E7%AC%A6%E5%8F%B7%E5%AD%A6/</link>
-      <pubDate>Tue, 01 Mar 2022 01:29:09 -0400</pubDate>
-      <guid>http://localhost:1313/zh-cn/tags/%E7%AC%A6%E5%8F%B7%E5%AD%A6/</guid>
-      <description>符号学</description>
-    </item>
-    <item>
-      <title>现代性</title>
-      <link>http://localhost:1313/zh-cn/tags/%E7%8E%B0%E4%BB%A3%E6%80%A7/</link>
-      <pubDate>Tue, 01 Mar 2022 01:29:09 -0400</pubDate>
-      <guid>http://localhost:1313/zh-cn/tags/%E7%8E%B0%E4%BB%A3%E6%80%A7/</guid>
-      <description>现代性</description>
     </item>
     <item>
       <title>资本主义</title>
@@ -71,13 +106,6 @@
       <pubDate>Mon, 13 Dec 2021 23:38:31 -0400</pubDate>
       <guid>http://localhost:1313/zh-cn/tags/%E6%8B%9C%E7%89%A9%E6%95%99/</guid>
       <description>拜物教</description>
-    </item>
-    <item>
-      <title>东亚研究</title>
-      <link>http://localhost:1313/zh-cn/tags/%E4%B8%9C%E4%BA%9A%E7%A0%94%E7%A9%B6/</link>
-      <pubDate>Mon, 13 Dec 2021 23:38:31 -0400</pubDate>
-      <guid>http://localhost:1313/zh-cn/tags/%E4%B8%9C%E4%BA%9A%E7%A0%94%E7%A9%B6/</guid>
-      <description>东亚研究</description>
     </item>
     <item>
       <title>消费主义</title>

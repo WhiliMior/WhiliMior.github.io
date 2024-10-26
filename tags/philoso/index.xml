@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Philoso - Tag - Shannon&#39;s Site</title>
+    <link>http://localhost:1313/tags/philoso/</link>
+    <description>Shannon&#39;s Site</description>
+    <generator>Hugo 0.136.4 &amp; FixIt v0.3.13</generator>
+    <language>en</language>
+    <copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright>
+    <lastBuildDate>Tue, 12 Sep 2023 17:01:29 -0400</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/philoso/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>What Do You All Think?</title>
+      <link>http://localhost:1313/posts/36d01d8/</link>
+      <pubDate>Tue, 12 Sep 2023 17:01:29 -0400</pubDate><author>zl4061@nyu.edu (Shannon Li)</author>
+      <guid>http://localhost:1313/posts/36d01d8/</guid>
+      <category domain="http://localhost:1313/categories/prose/">Prose</category>
+      <description>What Do You All Think?</description>
+    </item>
+  </channel>
+</rss>

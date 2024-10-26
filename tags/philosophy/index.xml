@@ -18,6 +18,38 @@
       <description>Booklist</description>
     </item>
     <item>
+      <title>Phaedrus</title>
+      <link>http://localhost:1313/posts/a0f523b/</link>
+      <pubDate>Mon, 06 Nov 2023 17:40:10 -0400</pubDate><author>zl4061@nyu.edu (Shannon Li)</author>
+      <guid>http://localhost:1313/posts/a0f523b/</guid>
+      <category domain="http://localhost:1313/categories/prose/">Prose</category>
+      <description>Phaedrus</description>
+    </item>
+    <item>
+      <title>Love to Sophia</title>
+      <link>http://localhost:1313/posts/6750eef/</link>
+      <pubDate>Mon, 02 Oct 2023 17:28:11 -0400</pubDate><author>zl4061@nyu.edu (Shannon Li)</author>
+      <guid>http://localhost:1313/posts/6750eef/</guid>
+      <category domain="http://localhost:1313/categories/prose/">Prose</category>
+      <description>Love to Sophia</description>
+    </item>
+    <item>
+      <title>What Do You All Think?</title>
+      <link>http://localhost:1313/posts/36d01d8/</link>
+      <pubDate>Tue, 12 Sep 2023 17:01:29 -0400</pubDate><author>zl4061@nyu.edu (Shannon Li)</author>
+      <guid>http://localhost:1313/posts/36d01d8/</guid>
+      <category domain="http://localhost:1313/categories/prose/">Prose</category>
+      <description>What Do You All Think?</description>
+    </item>
+    <item>
+      <title>The Real Touch</title>
+      <link>http://localhost:1313/posts/cb05545/</link>
+      <pubDate>Sun, 05 Mar 2023 16:34:21 -0400</pubDate><author>zl4061@nyu.edu (Shannon Li)</author>
+      <guid>http://localhost:1313/posts/cb05545/</guid>
+      <category domain="http://localhost:1313/categories/research-paper/">Research Paper</category>
+      <description>The Real Touch</description>
+    </item>
+    <item>
       <title>The Thing We Lost in Modernity</title>
       <link>http://localhost:1313/posts/eeb197f/</link>
       <pubDate>Tue, 01 Mar 2022 01:29:09 -0400</pubDate><author>zl4061@nyu.edu (Shannon Li)</author>

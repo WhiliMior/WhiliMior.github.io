@@ -18,6 +18,38 @@
       <description>书单</description>
     </item>
     <item>
+      <title>斐多篇</title>
+      <link>http://localhost:1313/zh-cn/posts/9185578/</link>
+      <pubDate>Mon, 06 Nov 2023 17:40:10 -0400</pubDate><author>zl4061@nyu.edu (Shannon Li)</author>
+      <guid>http://localhost:1313/zh-cn/posts/9185578/</guid>
+      <category domain="http://localhost:1313/zh-cn/categories/%E9%9A%8F%E7%AC%94/">随笔</category>
+      <description>斐多篇</description>
+    </item>
+    <item>
+      <title>Love to Sophia</title>
+      <link>http://localhost:1313/zh-cn/posts/5861c41/</link>
+      <pubDate>Mon, 02 Oct 2023 17:28:11 -0400</pubDate><author>zl4061@nyu.edu (Shannon Li)</author>
+      <guid>http://localhost:1313/zh-cn/posts/5861c41/</guid>
+      <category domain="http://localhost:1313/zh-cn/categories/%E9%9A%8F%E7%AC%94/">随笔</category>
+      <description>Love to Sophia</description>
+    </item>
+    <item>
+      <title>你们觉得怎么样？</title>
+      <link>http://localhost:1313/zh-cn/posts/c00f75e/</link>
+      <pubDate>Tue, 12 Sep 2023 17:01:29 -0400</pubDate><author>zl4061@nyu.edu (Shannon Li)</author>
+      <guid>http://localhost:1313/zh-cn/posts/c00f75e/</guid>
+      <category domain="http://localhost:1313/zh-cn/categories/%E9%9A%8F%E7%AC%94/">随笔</category>
+      <description>你们觉得怎么样？</description>
+    </item>
+    <item>
+      <title>真实之触</title>
+      <link>http://localhost:1313/zh-cn/posts/7cb7fff/</link>
+      <pubDate>Sun, 05 Mar 2023 16:34:21 -0400</pubDate><author>zl4061@nyu.edu (Shannon Li)</author>
+      <guid>http://localhost:1313/zh-cn/posts/7cb7fff/</guid>
+      <category domain="http://localhost:1313/zh-cn/categories/%E7%A0%94%E7%A9%B6%E8%AE%BA%E6%96%87/">研究论文</category>
+      <description>真实之触</description>
+    </item>
+    <item>
       <title>我们于现代性中的所失</title>
       <link>http://localhost:1313/zh-cn/posts/206cec5/</link>
       <pubDate>Tue, 01 Mar 2022 01:29:09 -0400</pubDate><author>zl4061@nyu.edu (Shannon Li)</author>
