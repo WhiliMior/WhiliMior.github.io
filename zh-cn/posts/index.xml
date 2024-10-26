@@ -1,21 +1,69 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>所有文章 - My Blog</title>
+    <title>所有文章 - Shannon的小站</title>
     <link>http://localhost:1313/zh-cn/posts/</link>
-    <description>My Blog</description>
+    <description>Shannon的小站</description>
     <generator>Hugo 0.136.4 &amp; FixIt v0.3.13</generator>
     <language>zh-CN</language>
     <copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright>
-    <lastBuildDate>Thu, 24 Oct 2024 23:12:54 -0400</lastBuildDate>
+    <lastBuildDate>Sat, 26 Oct 2024 01:54:15 -0400</lastBuildDate>
     <atom:link href="http://localhost:1313/zh-cn/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>测试</title>
-      <link>http://localhost:1313/zh-cn/posts/828522d/</link>
-      <pubDate>Thu, 24 Oct 2024 23:12:54 -0400</pubDate>
-      <guid>http://localhost:1313/zh-cn/posts/828522d/</guid>
-      <category domain="http://localhost:1313/zh-cn/categories/multilingual/">Multilingual</category>
-      <description>测试</description>
+      <title>世界的色彩</title>
+      <link>http://localhost:1313/zh-cn/posts/61ef13a/</link>
+      <pubDate>Sat, 26 Oct 2024 01:54:15 -0400</pubDate><author>zl4061@nyu.edu (Shannon Li)</author>
+      <guid>http://localhost:1313/zh-cn/posts/61ef13a/</guid>
+      <category domain="http://localhost:1313/zh-cn/categories/%E9%9A%8F%E7%AC%94/">随笔</category>
+      <description>世界的色彩</description>
+    </item>
+    <item>
+      <title>饱食终日 Proposal</title>
+      <link>http://localhost:1313/zh-cn/posts/18510/</link>
+      <pubDate>Sat, 26 Oct 2024 01:42:01 -0400</pubDate><author>zl4061@nyu.edu (Shannon Li)</author>
+      <guid>http://localhost:1313/zh-cn/posts/18510/</guid>
+      <category domain="http://localhost:1313/zh-cn/categories/%E5%AE%A3%E8%A8%80/">宣言</category>
+      <description>饱食终日 Proposal</description>
+    </item>
+    <item>
+      <title>我们于现代性中的所失</title>
+      <link>http://localhost:1313/zh-cn/posts/206cec5/</link>
+      <pubDate>Sat, 26 Oct 2024 01:29:09 -0400</pubDate><author>zl4061@nyu.edu (Shannon Li)</author>
+      <guid>http://localhost:1313/zh-cn/posts/206cec5/</guid>
+      <category domain="http://localhost:1313/zh-cn/categories/%E7%A0%94%E7%A9%B6%E8%AE%BA%E6%96%87/">研究论文</category>
+      <description>我们于现代性中的所失</description>
+    </item>
+    <item>
+      <title>今敏的未竟之梦</title>
+      <link>http://localhost:1313/zh-cn/posts/2448ff9/</link>
+      <pubDate>Sat, 26 Oct 2024 00:51:41 -0400</pubDate><author>zl4061@nyu.edu (Shannon Li)</author>
+      <guid>http://localhost:1313/zh-cn/posts/2448ff9/</guid>
+      <category domain="http://localhost:1313/zh-cn/categories/%E7%A0%94%E7%A9%B6%E8%AE%BA%E6%96%87/">研究论文</category>
+      <description>今敏的未竟之梦</description>
+    </item>
+    <item>
+      <title>九龙城寨中的美学价值与结构</title>
+      <link>http://localhost:1313/zh-cn/posts/7b9bf50/</link>
+      <pubDate>Sat, 26 Oct 2024 00:19:34 -0400</pubDate><author>zl4061@nyu.edu (Shannon Li)</author>
+      <guid>http://localhost:1313/zh-cn/posts/7b9bf50/</guid>
+      <category domain="http://localhost:1313/zh-cn/categories/%E7%A0%94%E7%A9%B6%E8%AE%BA%E6%96%87/">研究论文</category>
+      <description>九龙城寨中的美学价值与结构</description>
+    </item>
+    <item>
+      <title>广告中的消费主义</title>
+      <link>http://localhost:1313/zh-cn/posts/04a2b05/</link>
+      <pubDate>Fri, 25 Oct 2024 23:38:31 -0400</pubDate><author>zl4061@nyu.edu (Shannon Li)</author>
+      <guid>http://localhost:1313/zh-cn/posts/04a2b05/</guid>
+      <category domain="http://localhost:1313/zh-cn/categories/%E7%A0%94%E7%A9%B6%E8%AE%BA%E6%96%87/">研究论文</category>
+      <description>广告中的消费主义</description>
+    </item>
+    <item>
+      <title>书单</title>
+      <link>http://localhost:1313/zh-cn/posts/c8e0ceb/</link>
+      <pubDate>Fri, 25 Oct 2024 01:20:48 -0400</pubDate>
+      <guid>http://localhost:1313/zh-cn/posts/c8e0ceb/</guid>
+      <category domain="http://localhost:1313/zh-cn/categories/draft/">Draft</category>
+      <description>书单</description>
     </item>
   </channel>
 </rss>

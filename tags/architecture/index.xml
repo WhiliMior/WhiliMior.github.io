@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Architecture - Tag - Shannon&#39;s Site</title>
+    <link>http://localhost:1313/tags/architecture/</link>
+    <description>Shannon&#39;s Site</description>
+    <generator>Hugo 0.136.4 &amp; FixIt v0.3.13</generator>
+    <language>en</language>
+    <copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright>
+    <lastBuildDate>Sat, 26 Oct 2024 00:19:33 -0400</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/architecture/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>The Aesthetic Value and Construction of the Kowloon Walled City</title>
+      <link>http://localhost:1313/posts/89debba/</link>
+      <pubDate>Sat, 26 Oct 2024 00:19:33 -0400</pubDate><author>zl4061@nyu.edu (Shannon Li)</author>
+      <guid>http://localhost:1313/posts/89debba/</guid>
+      <category domain="http://localhost:1313/categories/research-paper/">Research Paper</category>
+      <description>The Aesthetic Value and Construction of the Kowloon Walled City</description>
+    </item>
+  </channel>
+</rss>
