@@ -2,19 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Manifesto - Category - Shannon&#39;s Site</title>
-    <link>http://localhost:1313/categories/manifesto/</link>
+    <link>http://localhost:6553/categories/manifesto/</link>
     <description>Shannon&#39;s Site</description>
     <generator>Hugo 0.136.4 &amp; FixIt v0.3.13</generator>
     <language>en</language>
     <copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright>
     <lastBuildDate>Sat, 26 Oct 2024 01:42:01 -0400</lastBuildDate>
-    <atom:link href="http://localhost:1313/categories/manifesto/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:6553/categories/manifesto/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Sated Days Proposal</title>
-      <link>http://localhost:1313/posts/ec2641d/</link>
+      <link>http://localhost:6553/posts/ec2641d/</link>
       <pubDate>Sat, 26 Oct 2024 01:42:01 -0400</pubDate><author>zl4061@nyu.edu (Shannon Li)</author>
-      <guid>http://localhost:1313/posts/ec2641d/</guid>
-      <category domain="http://localhost:1313/categories/manifesto/">Manifesto</category>
+      <guid>http://localhost:6553/posts/ec2641d/</guid>
+      <category domain="http://localhost:6553/categories/manifesto/">Manifesto</category>
       <description>Sated Days Proposal</description>
     </item>
   </channel>

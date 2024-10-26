@@ -2,27 +2,27 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Film - Tag - Shannon&#39;s Site</title>
-    <link>http://localhost:1313/tags/film/</link>
+    <link>http://localhost:6553/tags/film/</link>
     <description>Shannon&#39;s Site</description>
     <generator>Hugo 0.136.4 &amp; FixIt v0.3.13</generator>
     <language>en</language>
     <copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright>
     <lastBuildDate>Sat, 26 Oct 2024 01:42:01 -0400</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/film/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:6553/tags/film/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Sated Days Proposal</title>
-      <link>http://localhost:1313/posts/ec2641d/</link>
+      <link>http://localhost:6553/posts/ec2641d/</link>
       <pubDate>Sat, 26 Oct 2024 01:42:01 -0400</pubDate><author>zl4061@nyu.edu (Shannon Li)</author>
-      <guid>http://localhost:1313/posts/ec2641d/</guid>
-      <category domain="http://localhost:1313/categories/manifesto/">Manifesto</category>
+      <guid>http://localhost:6553/posts/ec2641d/</guid>
+      <category domain="http://localhost:6553/categories/manifesto/">Manifesto</category>
       <description>Sated Days Proposal</description>
     </item>
     <item>
       <title>The Unfinished Dreams of Kon Satoshi</title>
-      <link>http://localhost:1313/posts/3063866/</link>
-      <pubDate>Sat, 26 Oct 2024 00:51:41 -0400</pubDate><author>zl4061@nyu.edu (Shannon Li)</author>
-      <guid>http://localhost:1313/posts/3063866/</guid>
-      <category domain="http://localhost:1313/categories/research-paper/">Research Paper</category>
+      <link>http://localhost:6553/posts/3063866/</link>
+      <pubDate>Tue, 08 Feb 2022 00:51:41 -0400</pubDate><author>zl4061@nyu.edu (Shannon Li)</author>
+      <guid>http://localhost:6553/posts/3063866/</guid>
+      <category domain="http://localhost:6553/categories/research-paper/">Research Paper</category>
       <description>The Unfinished Dreams of Kon Satoshi</description>
     </item>
   </channel>

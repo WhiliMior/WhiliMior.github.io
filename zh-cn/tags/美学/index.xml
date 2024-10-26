@@ -2,19 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>美学 - 标签 - Shannon的小站</title>
-    <link>http://localhost:1313/zh-cn/tags/%E7%BE%8E%E5%AD%A6/</link>
+    <link>http://localhost:6553/zh-cn/tags/%E7%BE%8E%E5%AD%A6/</link>
     <description>Shannon的小站</description>
     <generator>Hugo 0.136.4 &amp; FixIt v0.3.13</generator>
     <language>zh-CN</language>
     <copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright>
-    <lastBuildDate>Sat, 26 Oct 2024 00:19:34 -0400</lastBuildDate>
-    <atom:link href="http://localhost:1313/zh-cn/tags/%E7%BE%8E%E5%AD%A6/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 29 Nov 2021 00:19:34 -0400</lastBuildDate>
+    <atom:link href="http://localhost:6553/zh-cn/tags/%E7%BE%8E%E5%AD%A6/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>九龙城寨中的美学价值与结构</title>
-      <link>http://localhost:1313/zh-cn/posts/7b9bf50/</link>
-      <pubDate>Sat, 26 Oct 2024 00:19:34 -0400</pubDate><author>zl4061@nyu.edu (Shannon Li)</author>
-      <guid>http://localhost:1313/zh-cn/posts/7b9bf50/</guid>
-      <category domain="http://localhost:1313/zh-cn/categories/%E7%A0%94%E7%A9%B6%E8%AE%BA%E6%96%87/">研究论文</category>
+      <link>http://localhost:6553/zh-cn/posts/7b9bf50/</link>
+      <pubDate>Mon, 29 Nov 2021 00:19:34 -0400</pubDate><author>zl4061@nyu.edu (Shannon Li)</author>
+      <guid>http://localhost:6553/zh-cn/posts/7b9bf50/</guid>
+      <category domain="http://localhost:6553/zh-cn/categories/%E7%A0%94%E7%A9%B6%E8%AE%BA%E6%96%87/">研究论文</category>
       <description>九龙城寨中的美学价值与结构</description>
     </item>
   </channel>
