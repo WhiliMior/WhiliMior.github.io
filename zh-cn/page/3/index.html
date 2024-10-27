@@ -65,7 +65,18 @@
                 href="/zh-cn/about/"
                 title="About"
                 
-              >关于</a></li><li class="menu-item delimiter"></li><li class="menu-item theme-switch" title="切换主题">
+              >关于</a></li><li class="menu-item delimiter"></li><li class="menu-item search" id="search-desktop">
+            <input type="text" placeholder="搜索文章标题或内容……" id="search-input-desktop">
+            <a href="javascript:void(0);" class="search-button search-toggle" id="search-toggle-desktop" title="搜索">
+              <i class="fa-solid fa-search fa-fw" aria-hidden="true"></i>
+            </a>
+            <a href="javascript:void(0);" class="search-button search-clear" id="search-clear-desktop" title="清空">
+              <i class="fa-solid fa-times-circle fa-fw" aria-hidden="true"></i>
+            </a>
+            <span class="search-button search-loading" id="search-loading-desktop">
+              <i class="fa-solid fa-spinner fa-fw fa-spin" aria-hidden="true"></i>
+            </span>
+          </li><li class="menu-item theme-switch" title="切换主题">
           <i class="fa-solid fa-adjust fa-fw" aria-hidden="true"></i>
         </li><li class="menu-item language-switch">
             <span role="button" aria-label="选择语言" title="选择语言"><i class="fa-solid fa-language fa-fw" aria-hidden="true"></i></span>
@@ -87,7 +98,23 @@
       </div>
     </div>
     <nav>
-      <ul class="menu" id="menu-mobile"><li
+      <ul class="menu" id="menu-mobile"><li class="search-wrapper">
+            <div class="search mobile" id="search-mobile">
+              <input type="text" placeholder="搜索文章标题或内容……" id="search-input-mobile">
+              <a href="javascript:void(0);" class="search-button search-toggle" id="search-toggle-mobile" title="搜索">
+                <i class="fa-solid fa-search fa-fw" aria-hidden="true"></i>
+              </a>
+              <a href="javascript:void(0);" class="search-button search-clear" id="search-clear-mobile" title="清空">
+                <i class="fa-solid fa-times-circle fa-fw" aria-hidden="true"></i>
+              </a>
+              <span class="search-button search-loading" id="search-loading-mobile">
+                <i class="fa-solid fa-spinner fa-fw fa-spin" aria-hidden="true"></i>
+              </span>
+            </div>
+            <a href="javascript:void(0);" class="search-cancel" id="search-cancel-mobile">
+              取消
+            </a>
+          </li><li
               class="menu-item"
             ><a
                   class="menu-link"
@@ -123,16 +150,42 @@
       </ul>
     </nav>
   </div>
-</header><main class="container"><div class="page home posts"><div class="home-profile"><div class="home-avatar"><a href="/zh-cn/posts/" title="Posts"><img loading="lazy" src="/images/avatar.png" alt="/images/avatar.png" data-title="/images/avatar.png" width="96" height="96" style="background: url(/images/loading.min.svg) no-repeat center;" onload="this.title=this.dataset.title;for(const i of ['style', 'data-title','onerror','onload']){this.removeAttribute(i);}this.dataset.lazyloaded='';" onerror="this.title=this.dataset.title;for(const i of ['style', 'data-title','onerror','onload']){this.removeAttribute(i);}"/></a></div><h1 class="home-title"></h1><div class="links"><a href="/zh-cn/index.xml" title="RSS"target="_blank" rel="external nofollow noopener noreferrer me"><i class="fa-solid fa-rss fa-fw" aria-hidden="true"></i>
+</header><div class="search-dropdown desktop">
+    <div id="search-dropdown-desktop"></div>
+  </div>
+  <div class="search-dropdown mobile">
+    <div id="search-dropdown-mobile"></div>
+  </div><main class="container"><div class="page home posts"><div class="home-profile"><div class="home-avatar"><a href="/zh-cn/posts/" title="Posts"><img loading="lazy" src="/images/avatar.png" alt="/images/avatar.png" data-title="/images/avatar.png" width="96" height="96" style="background: url(/images/loading.min.svg) no-repeat center;" onload="this.title=this.dataset.title;for(const i of ['style', 'data-title','onerror','onload']){this.removeAttribute(i);}this.dataset.lazyloaded='';" onerror="this.title=this.dataset.title;for(const i of ['style', 'data-title','onerror','onload']){this.removeAttribute(i);}"/></a></div><h1 class="home-title"></h1><div class="links"><a href="/zh-cn/index.xml" title="RSS"target="_blank" rel="external nofollow noopener noreferrer me"><i class="fa-solid fa-rss fa-fw" aria-hidden="true"></i>
     </a></div></div>
 <div class="single">
         <div class="content" id="content"><p>这是index页面</p>
 </div>
       </div><article class="single summary" itemscope itemtype="http://schema.org/Article"><h2 class="single-title" itemprop="name headline"><span title="转载" class="icon-repost"><i class="fa-solid fa-share fa-fw" aria-hidden="true"></i></span><a href="/zh-cn/posts/04a2b05/">广告中的消费主义</a>
-  </h2><div class="post-meta"><span class="post-author"><span class="author"><img loading="lazy" src="/images/avatar.png" alt="Shannon Li" data-title="Shannon Li" width="20" height="20" class="avatar" style="background: url(/images/loading.min.svg) no-repeat center;" onload="this.title=this.dataset.title;for(const i of ['style', 'data-title','onerror','onload']){this.removeAttribute(i);}this.dataset.lazyloaded='';" onerror="this.title=this.dataset.title;for(const i of ['style', 'data-title','onerror','onload']){this.removeAttribute(i);}"/>&nbsp;Shannon Li</span></span>&nbsp;<span class="post-publish" title='2021-12-13 23:38:31'>发布于 <time datetime="2021-12-13">2021-12-13</time></span><span class="post-included-in">&nbsp;收录于 <a href="/zh-cn/categories/%E7%A0%94%E7%A9%B6%E8%AE%BA%E6%96%87/" class="post-category" title="分类 - 研究论文"><i class="fa-regular fa-folder fa-fw" aria-hidden="true"></i> 研究论文</a></span></div><div class="content"></div><div class="post-footer">
+  </h2><div class="post-meta"><span class="post-author"><span class="author"><img loading="lazy" src="/images/avatar.png" alt="Shannon Li" data-title="Shannon Li" width="20" height="20" class="avatar" style="background: url(/images/loading.min.svg) no-repeat center;" onload="this.title=this.dataset.title;for(const i of ['style', 'data-title','onerror','onload']){this.removeAttribute(i);}this.dataset.lazyloaded='';" onerror="this.title=this.dataset.title;for(const i of ['style', 'data-title','onerror','onload']){this.removeAttribute(i);}"/>&nbsp;Shannon Li</span></span>&nbsp;<span class="post-publish" title='2021-12-13 23:38:31'>发布于 <time datetime="2021-12-13">2021-12-13</time></span><span class="post-included-in">&nbsp;收录于 <a href="/zh-cn/categories/%E7%A0%94%E7%A9%B6%E8%AE%BA%E6%96%87/" class="post-category" title="分类 - 研究论文"><i class="fa-regular fa-folder fa-fw" aria-hidden="true"></i> 研究论文</a></span></div><div class="content"><p>Shannon Li</p>
+<p>Daniel Johnson</p>
+<p>EAST-UA 950 002</p>
+<p>13 Dec. 2021</p>
+<h3 id="广告中的消费主义" class="heading-element"><span>广告中的消费主义</span>
+  <a href="#%e5%b9%bf%e5%91%8a%e4%b8%ad%e7%9a%84%e6%b6%88%e8%b4%b9%e4%b8%bb%e4%b9%89" class="heading-mark">
+    <svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg>
+  </a>
+</h3><p>二战后到20世纪五六十年代，伴随着经济的复苏与繁荣，消费逐渐取代生产成为城市居民生活的核心，以美国为首的西方发达国家开始相继进入消费社会。而在亚洲，日本在对战争的反思当中走过了其经济最为繁华的八十年代。于此同时，韩国和中国都进入了经济高速发展的阶段。在这个阶段，资本主义在重工业时代和殖民时代的致命危机被经济的高潮隐藏，与此同时更加隐蔽地进行着剥削。在战后时代直到二十一世纪的到来，消费资本主义都一直潜藏在经济发展的美景之下，影响着亚洲人民的日常生活。</p></div><div class="post-footer">
     <a href="/zh-cn/posts/04a2b05/">阅读全文</a><div class="post-tags"><i class="fa-solid fa-tags fa-fw me-1" aria-hidden="true"></i><a href='/zh-cn/tags/%E4%B8%9C%E4%BA%9A%E7%A0%94%E7%A9%B6/' class="post-tag">东亚研究</a><a href='/zh-cn/tags/%E6%B6%88%E8%B4%B9%E4%B8%BB%E4%B9%89/' class="post-tag">消费主义</a><a href='/zh-cn/tags/%E7%AC%A6%E5%8F%B7%E5%AD%A6/' class="post-tag">符号学</a><a href='/zh-cn/tags/%E8%B5%84%E6%9C%AC%E4%B8%BB%E4%B9%89/' class="post-tag">资本主义</a><a href='/zh-cn/tags/%E6%8B%9C%E7%89%A9%E6%95%99/' class="post-tag">拜物教</a></div></div>
 </article><article class="single summary" itemscope itemtype="http://schema.org/Article"><h2 class="single-title" itemprop="name headline"><span title="转载" class="icon-repost"><i class="fa-solid fa-share fa-fw" aria-hidden="true"></i></span><a href="/zh-cn/posts/7b9bf50/">九龙城寨中的美学价值与结构</a>
-  </h2><div class="post-meta"><span class="post-author"><span class="author"><img loading="lazy" src="/images/avatar.png" alt="Shannon Li" data-title="Shannon Li" width="20" height="20" class="avatar" style="background: url(/images/loading.min.svg) no-repeat center;" onload="this.title=this.dataset.title;for(const i of ['style', 'data-title','onerror','onload']){this.removeAttribute(i);}this.dataset.lazyloaded='';" onerror="this.title=this.dataset.title;for(const i of ['style', 'data-title','onerror','onload']){this.removeAttribute(i);}"/>&nbsp;Shannon Li</span></span>&nbsp;<span class="post-publish" title='2021-11-29 00:19:34'>发布于 <time datetime="2021-11-29">2021-11-29</time></span><span class="post-included-in">&nbsp;收录于 <a href="/zh-cn/categories/%E7%A0%94%E7%A9%B6%E8%AE%BA%E6%96%87/" class="post-category" title="分类 - 研究论文"><i class="fa-regular fa-folder fa-fw" aria-hidden="true"></i> 研究论文</a></span></div><div class="content"></div><div class="post-footer">
+  </h2><div class="post-meta"><span class="post-author"><span class="author"><img loading="lazy" src="/images/avatar.png" alt="Shannon Li" data-title="Shannon Li" width="20" height="20" class="avatar" style="background: url(/images/loading.min.svg) no-repeat center;" onload="this.title=this.dataset.title;for(const i of ['style', 'data-title','onerror','onload']){this.removeAttribute(i);}this.dataset.lazyloaded='';" onerror="this.title=this.dataset.title;for(const i of ['style', 'data-title','onerror','onload']){this.removeAttribute(i);}"/>&nbsp;Shannon Li</span></span>&nbsp;<span class="post-publish" title='2021-11-29 00:19:34'>发布于 <time datetime="2021-11-29">2021-11-29</time></span><span class="post-included-in">&nbsp;收录于 <a href="/zh-cn/categories/%E7%A0%94%E7%A9%B6%E8%AE%BA%E6%96%87/" class="post-category" title="分类 - 研究论文"><i class="fa-regular fa-folder fa-fw" aria-hidden="true"></i> 研究论文</a></span></div><div class="content"><blockquote>
+<p>该文章没有中文草稿，均使用翻译软件翻译到中文。有条件建议阅读英文。</p>
+</blockquote>
+<p>Shannon Li</p>
+<p>Laren McClung</p>
+<p>EXPOS-UA 5 059</p>
+<p>29 Nov. 2021</p>
+<h3 id="九龙城寨中的美学价值与结构" class="heading-element"><span>九龙城寨中的美学价值与结构</span>
+  <a href="#%e4%b9%9d%e9%be%99%e5%9f%8e%e5%af%a8%e4%b8%ad%e7%9a%84%e7%be%8e%e5%ad%a6%e4%bb%b7%e5%80%bc%e4%b8%8e%e7%bb%93%e6%9e%84" class="heading-mark">
+    <svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg>
+  </a>
+</h3><figure><a class="lightgallery" href="https://flashbak.com/wp-content/uploads/2020/04/kowloon-27.jpg?size=large" data-thumbnail="https://flashbak.com/wp-content/uploads/2020/04/kowloon-27.jpg?size=small" data-sub-html="<h2>Kowloon Walled City</h2>"><img loading="lazy" src="https://flashbak.com/wp-content/uploads/2020/04/kowloon-27.jpg" alt="https://flashbak.com/wp-content/uploads/2020/04/kowloon-27.jpg" srcset="https://flashbak.com/wp-content/uploads/2020/04/kowloon-27.jpg?size=small, https://flashbak.com/wp-content/uploads/2020/04/kowloon-27.jpg?size=medium 1.5x, https://flashbak.com/wp-content/uploads/2020/04/kowloon-27.jpg?size=large 2x" data-title="https://flashbak.com/wp-content/uploads/2020/04/kowloon-27.jpg" style="background: url(/images/loading.min.svg) no-repeat center;" onload="this.title=this.dataset.title;for(const i of ['style', 'data-title','onerror','onload']){this.removeAttribute(i);}this.dataset.lazyloaded='';" onerror="this.title=this.dataset.title;for(const i of ['style', 'data-title','onerror','onload']){this.removeAttribute(i);}"/></a><figcaption class="image-caption">Kowloon Walled City</figcaption>
+  </figure>
+<p>这是一张九龙城寨的照片。照片是从城墙外拍摄的，这是一条由建筑物组成的商业街。在照片的下部，也就是行人可以进入的商业街部分，有许多用中文书写的广告牌。在这些密集的广告牌下方，则是穿梭的行人。值得注意的是，在路边，大量垃圾无序堆放，无人清理。在照片的上半部分，有一片由窗台组成的居民区，就像笼子一样。</p></div><div class="post-footer">
     <a href="/zh-cn/posts/7b9bf50/">阅读全文</a><div class="post-tags"><i class="fa-solid fa-tags fa-fw me-1" aria-hidden="true"></i><a href='/zh-cn/tags/%E7%BE%8E%E5%AD%A6/' class="post-tag">美学</a><a href='/zh-cn/tags/%E8%B5%9B%E5%8D%9A%E6%9C%8B%E5%85%8B/' class="post-tag">赛博朋克</a><a href='/zh-cn/tags/%E5%BB%BA%E7%AD%91/' class="post-tag">建筑</a></div></div>
 </article><ul class="pagination"><li class="page-item">
           <span class="page-link">
@@ -156,5 +209,5 @@
     <div class="noscript-warning">该网站在启用 JavaScript 的情况下效果最佳。</div>
   </noscript>
 </div><link rel="preload" href="/lib/katex/katex.min.css" as="style" onload="this.removeAttribute('onload');this.rel='stylesheet'">
-    <noscript><link rel="stylesheet" href="/lib/katex/katex.min.css"></noscript><link rel="stylesheet" href="/lib/cookieconsent/cookieconsent.min.css"><script src="/lib/sharer/sharer.min.js" async defer></script><script src="/lib/katex/katex.min.js" defer></script><script src="/lib/katex/auto-render.min.js" defer></script><script src="/lib/katex/copy-tex.min.js" defer></script><script src="/lib/katex/mhchem.min.js" defer></script><script src="/lib/cookieconsent/cookieconsent.min.js" defer></script><script>window.config={"code":{"copyTitle":"复制到剪贴板","editLockTitle":"锁定可编辑代码块","editUnLockTitle":"解锁可编辑代码块","editable":true,"maxShownLines":10},"cookieconsent":{"content":{"dismiss":"同意","link":"了解更多","message":"本网站使用 Cookies 来改善您的浏览体验。"},"enable":true,"palette":{"button":{"background":"#f0f0f0"},"popup":{"background":"#1aa3ff"}},"theme":"edgeless"},"math":{"delimiters":[{"display":true,"left":"$$","right":"$$"},{"display":true,"left":"\\[","right":"\\]"},{"display":true,"left":"\\begin{equation}","right":"\\end{equation}"},{"display":true,"left":"\\begin{equation*}","right":"\\end{equation*}"},{"display":true,"left":"\\begin{align}","right":"\\end{align}"},{"display":true,"left":"\\begin{align*}","right":"\\end{align*}"},{"display":true,"left":"\\begin{alignat}","right":"\\end{alignat}"},{"display":true,"left":"\\begin{alignat*}","right":"\\end{alignat*}"},{"display":true,"left":"\\begin{gather}","right":"\\end{gather}"},{"display":true,"left":"\\begin{CD}","right":"\\end{CD}"},{"display":false,"left":"$","right":"$"},{"display":false,"left":"\\(","right":"\\)"}],"strict":false},"version":"v0.3.13"};console.log('Page config:', window.config);</script><script src="/js/theme.min.js" defer></script></body>
+    <noscript><link rel="stylesheet" href="/lib/katex/katex.min.css"></noscript><link rel="stylesheet" href="/lib/cookieconsent/cookieconsent.min.css"><script src="/lib/autocomplete/autocomplete.min.js" defer></script><script src="/lib/sharer/sharer.min.js" async defer></script><script src="/lib/katex/katex.min.js" defer></script><script src="/lib/katex/auto-render.min.js" defer></script><script src="/lib/katex/copy-tex.min.js" defer></script><script src="/lib/katex/mhchem.min.js" defer></script><script src="/lib/cookieconsent/cookieconsent.min.js" defer></script><script>window.config={"code":{"copyTitle":"复制到剪贴板","editLockTitle":"锁定可编辑代码块","editUnLockTitle":"解锁可编辑代码块","editable":true,"maxShownLines":10},"cookieconsent":{"content":{"dismiss":"同意","link":"了解更多","message":"本网站使用 Cookies 来改善您的浏览体验。"},"enable":true,"palette":{"button":{"background":"#f0f0f0"},"popup":{"background":"#1aa3ff"}},"theme":"edgeless"},"math":{"delimiters":[{"display":true,"left":"$$","right":"$$"},{"display":true,"left":"\\[","right":"\\]"},{"display":true,"left":"\\begin{equation}","right":"\\end{equation}"},{"display":true,"left":"\\begin{equation*}","right":"\\end{equation*}"},{"display":true,"left":"\\begin{align}","right":"\\end{align}"},{"display":true,"left":"\\begin{align*}","right":"\\end{align*}"},{"display":true,"left":"\\begin{alignat}","right":"\\end{alignat}"},{"display":true,"left":"\\begin{alignat*}","right":"\\end{alignat*}"},{"display":true,"left":"\\begin{gather}","right":"\\end{gather}"},{"display":true,"left":"\\begin{CD}","right":"\\end{CD}"},{"display":false,"left":"$","right":"$"},{"display":false,"left":"\\(","right":"\\)"}],"strict":false},"search":{"highlightTag":"em","maxResultLength":10,"noResultsFound":"没有找到结果","snippetLength":50},"version":"v0.3.13"};console.log('Page config:', window.config);</script><script src="/js/theme.min.js" defer></script></body>
 </html>

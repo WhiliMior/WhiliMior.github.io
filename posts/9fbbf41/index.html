@@ -6,14 +6,17 @@
     <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=2">
     <meta name="robots" content="noodp" />
     <title>Antigone - Shannon&#39;s Site</title><meta name="author" content="Shannon Li">
-<meta name="description" content=""><meta name="keywords" content='Literature, Psychoanalysis'>
+<meta name="description" content="A story like this can be understood in many ways. It can be a conflict between natural law and man-made law, or a conflict between a positivist position and a non-positivist position on the same legal case. Antigone, in jurisprudential terms, stands for natural law, and Creon stands for man-made law. It seems that the story simply discusses the importance of natural law (morality). It seems to be a confrontation between morality and law. But Antigone&rsquo;s story has a certain sublime value in it. The characters in the story have a very unusual emphasis on the definition of womanhood.
+"><meta name="keywords" content='Literature, Psychoanalysis'>
   <meta itemprop="name" content="Antigone">
+  <meta itemprop="description" content="A story like this can be understood in many ways. It can be a conflict between natural law and man-made law, or a conflict between a positivist position and a non-positivist position on the same legal case. Antigone, in jurisprudential terms, stands for natural law, and Creon stands for man-made law. It seems that the story simply discusses the importance of natural law (morality). It seems to be a confrontation between morality and law. But Antigone’s story has a certain sublime value in it. The characters in the story have a very unusual emphasis on the definition of womanhood.">
   <meta itemprop="datePublished" content="2023-09-18T17:19:31-04:00">
   <meta itemprop="dateModified" content="2023-09-18T17:19:31-04:00">
   <meta itemprop="wordCount" content="807">
   <meta itemprop="keywords" content="Literature,Psychoanalysis"><meta property="og:url" content="http://localhost:1313/posts/9fbbf41/">
   <meta property="og:site_name" content="Shannon&#39;s Site">
   <meta property="og:title" content="Antigone">
+  <meta property="og:description" content="A story like this can be understood in many ways. It can be a conflict between natural law and man-made law, or a conflict between a positivist position and a non-positivist position on the same legal case. Antigone, in jurisprudential terms, stands for natural law, and Creon stands for man-made law. It seems that the story simply discusses the importance of natural law (morality). It seems to be a confrontation between morality and law. But Antigone’s story has a certain sublime value in it. The characters in the story have a very unusual emphasis on the definition of womanhood.">
   <meta property="og:locale" content="en">
   <meta property="og:type" content="article">
     <meta property="article:section" content="posts">
@@ -24,6 +27,7 @@
 
   <meta name="twitter:card" content="summary">
   <meta name="twitter:title" content="Antigone">
+  <meta name="twitter:description" content="A story like this can be understood in many ways. It can be a conflict between natural law and man-made law, or a conflict between a positivist position and a non-positivist position on the same legal case. Antigone, in jurisprudential terms, stands for natural law, and Creon stands for man-made law. It seems that the story simply discusses the importance of natural law (morality). It seems to be a confrontation between morality and law. But Antigone’s story has a certain sublime value in it. The characters in the story have a very unusual emphasis on the definition of womanhood.">
 <meta name="application-name" content="FixIt">
 <meta name="apple-mobile-web-app-title" content="FixIt"><meta name="theme-color" data-light="#f8f8f8" data-dark="#252627" content="#f8f8f8"><meta name="msapplication-TileColor" content="#da532c"><link rel="shortcut icon" type="image/x-icon" href="/favicon.ico" />
     <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
@@ -76,7 +80,18 @@
                 href="/about/"
                 
                 
-              >About</a></li><li class="menu-item delimiter"></li><li class="menu-item theme-switch" title="Switch Theme">
+              >About</a></li><li class="menu-item delimiter"></li><li class="menu-item search" id="search-desktop">
+            <input type="text" placeholder="Search titles or contents ..." id="search-input-desktop">
+            <a href="javascript:void(0);" class="search-button search-toggle" id="search-toggle-desktop" title="Search">
+              <i class="fa-solid fa-search fa-fw" aria-hidden="true"></i>
+            </a>
+            <a href="javascript:void(0);" class="search-button search-clear" id="search-clear-desktop" title="Clear">
+              <i class="fa-solid fa-times-circle fa-fw" aria-hidden="true"></i>
+            </a>
+            <span class="search-button search-loading" id="search-loading-desktop">
+              <i class="fa-solid fa-spinner fa-fw fa-spin" aria-hidden="true"></i>
+            </span>
+          </li><li class="menu-item theme-switch" title="Switch Theme">
           <i class="fa-solid fa-adjust fa-fw" aria-hidden="true"></i>
         </li><li class="menu-item language-switch">
             <span role="button" aria-label="Select Language" title="Select Language"><i class="fa-solid fa-language fa-fw" aria-hidden="true"></i></span>
@@ -98,7 +113,23 @@
       </div>
     </div>
     <nav>
-      <ul class="menu" id="menu-mobile"><li
+      <ul class="menu" id="menu-mobile"><li class="search-wrapper">
+            <div class="search mobile" id="search-mobile">
+              <input type="text" placeholder="Search titles or contents ..." id="search-input-mobile">
+              <a href="javascript:void(0);" class="search-button search-toggle" id="search-toggle-mobile" title="Search">
+                <i class="fa-solid fa-search fa-fw" aria-hidden="true"></i>
+              </a>
+              <a href="javascript:void(0);" class="search-button search-clear" id="search-clear-mobile" title="Clear">
+                <i class="fa-solid fa-times-circle fa-fw" aria-hidden="true"></i>
+              </a>
+              <span class="search-button search-loading" id="search-loading-mobile">
+                <i class="fa-solid fa-spinner fa-fw fa-spin" aria-hidden="true"></i>
+              </span>
+            </div>
+            <a href="javascript:void(0);" class="search-cancel" id="search-cancel-mobile">
+              Cancel
+            </a>
+          </li><li
               class="menu-item"
             ><a
                   class="menu-link"
@@ -134,13 +165,19 @@
       </ul>
     </nav>
   </div>
-</header><main class="container"><aside class="aside-collection animate__animated animate__fadeIn animate__faster" aria-label="Collections"></aside>
+</header><div class="search-dropdown desktop">
+    <div id="search-dropdown-desktop"></div>
+  </div>
+  <div class="search-dropdown mobile">
+    <div id="search-dropdown-mobile"></div>
+  </div><main class="container"><aside class="aside-collection animate__animated animate__fadeIn animate__faster" aria-label="Collections"></aside>
 
   <article class="page single">
     <div class="header"><h1 class="single-title animate__animated animate__flipInX"><span title="Repost" class="icon-repost"><i class="fa-solid fa-share fa-fw" aria-hidden="true"></i></span><span>Antigone</span>
       </h1><p class="single-subtitle animate__animated animate__fadeIn">Compulsion</p></div><div class="post-meta">
       <div class="post-meta-line"><span class="post-author"><span class="author"><img loading="lazy" src="/images/avatar.png" alt="Shannon Li" data-title="Shannon Li" width="20" height="20" class="avatar" style="background: url(/images/loading.min.svg) no-repeat center;" onload="this.title=this.dataset.title;for(const i of ['style', 'data-title','onerror','onload']){this.removeAttribute(i);}this.dataset.lazyloaded='';" onerror="this.title=this.dataset.title;for(const i of ['style', 'data-title','onerror','onload']){this.removeAttribute(i);}"/>&nbsp;Shannon Li</span></span><span class="post-included-in">&nbsp;included in <a href="/categories/prose/" class="post-category" title="Category - Prose"><i class="fa-regular fa-folder fa-fw" aria-hidden="true"></i> Prose</a></span></div><div class="post-meta-line"><span title="published on 2023-09-18 17:19:31"><i class="fa-solid fa-calendar-days fa-fw me-1" aria-hidden="true"></i><time datetime="2023-09-18">2023-09-18</time></span>&nbsp;<span title="807 words"><i class="fa-solid fa-pencil-alt fa-fw me-1" aria-hidden="true"></i>About 900 words</span>&nbsp;<span><i class="fa-regular fa-clock fa-fw me-1" aria-hidden="true"></i>4 minutes</span>&nbsp;</div>
-    </div><div class="content" id="content"><p>A story like this can be understood in many ways. It can be a conflict between natural law and man-made law, or a conflict between a positivist position and a non-positivist position on the same legal case. Antigone, in jurisprudential terms, stands for natural law, and Creon stands for man-made law. It seems that the story simply discusses the importance of natural law (morality). It seems to be a confrontation between morality and law. But Antigone&rsquo;s story has a certain sublime value in it. The characters in the story have a very unusual emphasis on the definition of womanhood. It&rsquo;s like if I do something weak, if I give in, I become a woman. If I am strong, if I legislate, then I am a man, as Creon puts it: &ldquo;Contemptible character, inferior to a woman&rdquo; (73)! Creon considers a vile character to be an expression of a woman, and he himself, as a man, naturally spurns such behavior. And Ismene similarly says: &ldquo;we must remember that we are women, who cannot fight against men&rdquo; (11). Of course, for historical reasons, Sophocles lived in an Athenian slave-owning democracy, where the right to &ldquo;democracy&rdquo; was only open to a small number of adult males. But why was this so? Women&rsquo;s suffrage was not widely discussed and utilized until the 19th century. Something was at work here. Was it female sexuality? For Antigone, she represented precisely a certain beauty, a certain sublime beauty. as to whether women and female sexuality existed at all, that in itself is questionable.</p>
+    </div><div class="content" id="content"><p>A story like this can be understood in many ways. It can be a conflict between natural law and man-made law, or a conflict between a positivist position and a non-positivist position on the same legal case. Antigone, in jurisprudential terms, stands for natural law, and Creon stands for man-made law. It seems that the story simply discusses the importance of natural law (morality). It seems to be a confrontation between morality and law. But Antigone&rsquo;s story has a certain sublime value in it. The characters in the story have a very unusual emphasis on the definition of womanhood.</p>
+<p>It&rsquo;s like if I do something weak, if I give in, I become a woman. If I am strong, if I legislate, then I am a man, as Creon puts it: &ldquo;Contemptible character, inferior to a woman&rdquo; (73)! Creon considers a vile character to be an expression of a woman, and he himself, as a man, naturally spurns such behavior. And Ismene similarly says: &ldquo;we must remember that we are women, who cannot fight against men&rdquo; (11). Of course, for historical reasons, Sophocles lived in an Athenian slave-owning democracy, where the right to &ldquo;democracy&rdquo; was only open to a small number of adult males. But why was this so? Women&rsquo;s suffrage was not widely discussed and utilized until the 19th century. Something was at work here. Was it female sexuality? For Antigone, she represented precisely a certain beauty, a certain sublime beauty. as to whether women and female sexuality existed at all, that in itself is questionable.</p>
 <p>Ismene had counseled Antigone against the impulsive behavior that had cost her her life. But Antigone, in her own compulsive repetition, must do it, must do it compulsively. For if she agrees, she becomes one of the products of the ideological narrative. Only when she compulsively says &ldquo;No!&rdquo; she becomes a subject. But why? This compulsion is based on some pure contingency. For example, Kant&rsquo;s high categorical imperative compels her to obey morality, but this abstract morality is fundamentally untenable, and Antigone says that it doesn&rsquo;t matter if her husband dies or her children die. Because one can remarry and reproduce (87). But her brother as a unique signifier, so no. So let us consider who is more unique between the brother and the father and the son? Antigone&rsquo;s explanation is fundamentally so absurd that it is the most absurd grasp of pure chance. And it is precisely in this way that she becomes the opening of subjectivity in the world. For Lacan, Antigone&rsquo;s behavior is precisely a compulsion, a complete, insistent compulsion to fantasize. She believes that the big Other is absent. But is that really the case? Rather, her symptoms become the penetrating force that connects the three Registers.</p>
 <p>In Jacques Lacan&rsquo;s <em>Seminar VII</em>, he analyzes Antigone&rsquo;s constant assertion that “I chose death” is an embodiment of the death drive. If Antigone is defending her brother&rsquo;s right to be buried on the basis of “absolute disinterestedness”, what order of things obliges her to do so? It is in fact her own action. She does not act for the sake of others, but as the subject of her desire, she acts with complete autonomy. Otherwise, her resistance would have been violently placed as a vulgar disrespect for her true action. For she simply does not believe in a total, underpinning semiotic order, and to recognize the existence of the sublime is to deny Antigone&rsquo;s resistance. Lacan, too, does not deny the existence of Others, and in his Seminar XI he even says: “Man&rsquo;s desire is the desire of the Other”. However, Antigone&rsquo;s true action is precisely what Lacan means by traverse the fantasy, because she is ready to face the cruel fundamental fantasy.</p>
 <p>As for Creon, it is better to say that he is the one most controlled by the order. He did not set the law at all, but the law demanded that he set the law itself. Antigone, who always talks about Zeus, does not seem to recognize the presence of the gods, and Slavoj Žižek, in his book <em>Enjoy Your Symptom!</em>, even suggests one of Antigone&rsquo;s purest insistence: My brother is my brother, it is what it is. She never explains where it comes from. She insists on her brother&rsquo;s right to be buried in the name of a pure signifier of the law: It is Name. On page 45 of Antigone&rsquo;s original text, in the first paragraph, a long passage of hers confirms that she does not believe that any transcendent order gives Creon power at all. But Creon instead insists that order exists somewhere.</p>
@@ -177,5 +214,5 @@
         </div></div><div id="mask"></div><noscript>
     <div class="noscript-warning">This website works best with JavaScript enabled.</div>
   </noscript>
-</div><link rel="stylesheet" href="/lib/cookieconsent/cookieconsent.min.css"><script src="/lib/sharer/sharer.min.js" async defer></script><script src="/lib/cookieconsent/cookieconsent.min.js" defer></script><script>window.config={"code":{"copyTitle":"Copy to clipboard","editLockTitle":"Lock editable code block","editUnLockTitle":"Unlock editable code block","editable":true,"maxShownLines":10},"comment":{"enable":false},"cookieconsent":{"content":{"dismiss":"Got it!","link":"Learn more","message":"This website uses Cookies to improve your experience."},"enable":true,"palette":{"button":{"background":"#f0f0f0"},"popup":{"background":"#1aa3ff"}},"theme":"edgeless"},"version":"v0.3.13"};console.log('Page config:', window.config);</script><script src="/js/theme.min.js" defer></script></body>
+</div><link rel="stylesheet" href="/lib/cookieconsent/cookieconsent.min.css"><script src="/lib/autocomplete/autocomplete.min.js" defer></script><script src="/lib/sharer/sharer.min.js" async defer></script><script src="/lib/cookieconsent/cookieconsent.min.js" defer></script><script>window.config={"code":{"copyTitle":"Copy to clipboard","editLockTitle":"Lock editable code block","editUnLockTitle":"Unlock editable code block","editable":true,"maxShownLines":10},"comment":{"enable":false},"cookieconsent":{"content":{"dismiss":"Got it!","link":"Learn more","message":"This website uses Cookies to improve your experience."},"enable":true,"palette":{"button":{"background":"#f0f0f0"},"popup":{"background":"#1aa3ff"}},"theme":"edgeless"},"search":{"highlightTag":"em","maxResultLength":10,"noResultsFound":"No results found","snippetLength":30},"version":"v0.3.13"};console.log('Page config:', window.config);</script><script src="/js/theme.min.js" defer></script></body>
 </html>
