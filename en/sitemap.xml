@@ -2,9 +2,39 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://localhost:1313/categories/</loc>
-    <lastmod>2024-10-26T15:29:13-04:00</lastmod>
+    <lastmod>2024-10-27T23:32:42-04:00</lastmod>
     <xhtml:link rel="alternate" hreflang="zh-CN" href="http://localhost:1313/zh-cn/categories/"/>
     <xhtml:link rel="alternate" hreflang="en" href="http://localhost:1313/categories/"/>
+  </url>
+  <url>
+    <loc>http://localhost:1313/posts/ac4524a/</loc>
+    <lastmod>2024-10-27T23:32:42-04:00</lastmod>
+    <xhtml:link rel="alternate" hreflang="zh-CN" href="http://localhost:1313/zh-cn/posts/7a48d76/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="http://localhost:1313/posts/ac4524a/"/>
+  </url>
+  <url>
+    <loc>http://localhost:1313/tags/game/</loc>
+    <lastmod>2024-10-27T23:32:42-04:00</lastmod>
+  </url>
+  <url>
+    <loc>http://localhost:1313/categories/manifesto/</loc>
+    <lastmod>2024-10-27T23:32:42-04:00</lastmod>
+  </url>
+  <url>
+    <loc>http://localhost:1313/posts/</loc>
+    <lastmod>2024-10-27T23:32:42-04:00</lastmod>
+    <xhtml:link rel="alternate" hreflang="zh-CN" href="http://localhost:1313/zh-cn/posts/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="http://localhost:1313/posts/"/>
+  </url>
+  <url>
+    <loc>http://localhost:1313/tags/psychoanalysis/</loc>
+    <lastmod>2024-10-27T23:32:42-04:00</lastmod>
+  </url>
+  <url>
+    <loc>http://localhost:1313/tags/</loc>
+    <lastmod>2024-10-27T23:32:42-04:00</lastmod>
+    <xhtml:link rel="alternate" hreflang="zh-CN" href="http://localhost:1313/zh-cn/tags/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="http://localhost:1313/tags/"/>
   </url>
   <url>
     <loc>http://localhost:1313/categories/life-in-the-us/</loc>
@@ -15,12 +45,6 @@
     <lastmod>2024-10-26T15:29:13-04:00</lastmod>
     <xhtml:link rel="alternate" hreflang="zh-CN" href="http://localhost:1313/zh-cn/posts/9774ebe/"/>
     <xhtml:link rel="alternate" hreflang="en" href="http://localhost:1313/posts/9b865f6/"/>
-  </url>
-  <url>
-    <loc>http://localhost:1313/posts/</loc>
-    <lastmod>2024-10-26T15:29:13-04:00</lastmod>
-    <xhtml:link rel="alternate" hreflang="zh-CN" href="http://localhost:1313/zh-cn/posts/"/>
-    <xhtml:link rel="alternate" hreflang="en" href="http://localhost:1313/posts/"/>
   </url>
   <url>
     <loc>http://localhost:1313/</loc>
@@ -51,16 +75,6 @@
   <url>
     <loc>http://localhost:1313/tags/philosophy/</loc>
     <lastmod>2024-10-25T01:20:48-04:00</lastmod>
-  </url>
-  <url>
-    <loc>http://localhost:1313/tags/psychoanalysis/</loc>
-    <lastmod>2024-10-25T01:20:48-04:00</lastmod>
-  </url>
-  <url>
-    <loc>http://localhost:1313/tags/</loc>
-    <lastmod>2024-10-25T01:20:48-04:00</lastmod>
-    <xhtml:link rel="alternate" hreflang="zh-CN" href="http://localhost:1313/zh-cn/tags/"/>
-    <xhtml:link rel="alternate" hreflang="en" href="http://localhost:1313/tags/"/>
   </url>
   <url>
     <loc>http://localhost:1313/tags/east-asia-study/</loc>
@@ -159,10 +173,6 @@
     <xhtml:link rel="alternate" hreflang="en" href="http://localhost:1313/posts/0e4eb88/"/>
   </url>
   <url>
-    <loc>http://localhost:1313/tags/game/</loc>
-    <lastmod>2023-03-05T16:34:21-04:00</lastmod>
-  </url>
-  <url>
     <loc>http://localhost:1313/posts/cb05545/</loc>
     <lastmod>2023-03-05T16:34:21-04:00</lastmod>
     <xhtml:link rel="alternate" hreflang="zh-CN" href="http://localhost:1313/zh-cn/posts/7cb7fff/"/>
@@ -176,10 +186,6 @@
   </url>
   <url>
     <loc>http://localhost:1313/tags/capitalism/</loc>
-    <lastmod>2022-03-01T01:29:09-04:00</lastmod>
-  </url>
-  <url>
-    <loc>http://localhost:1313/categories/manifesto/</loc>
     <lastmod>2022-03-01T01:29:09-04:00</lastmod>
   </url>
   <url>
