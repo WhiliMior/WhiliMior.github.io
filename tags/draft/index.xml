@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Draft - Tag - Shannon&#39;s Site</title>
+    <title>Draft - Tag - Holzwage</title>
     <link>http://localhost:1313/tags/draft/</link>
-    <description>Shannon&#39;s Site</description>
+    <description>Holzwage</description>
     <generator>Hugo 0.136.4 &amp; FixIt v0.3.13</generator>
     <language>en</language>
     <copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright>
-    <lastBuildDate>Sat, 26 Oct 2024 19:15:22 -0400</lastBuildDate>
+    <lastBuildDate>Wed, 30 Oct 2024 19:32:54 -0400</lastBuildDate>
     <atom:link href="http://localhost:1313/tags/draft/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Newtest</title>
-      <link>http://localhost:1313/posts/5f0fc8e/</link>
-      <pubDate>Sat, 26 Oct 2024 19:15:22 -0400</pubDate>
-      <guid>http://localhost:1313/posts/5f0fc8e/</guid>
+      <title>Film List</title>
+      <link>http://localhost:1313/posts/02ecbf4/</link>
+      <pubDate>Wed, 30 Oct 2024 19:32:54 -0400</pubDate><author>zl4061@nyu.edu (Shannon Li)</author>
+      <guid>http://localhost:1313/posts/02ecbf4/</guid>
       <category domain="http://localhost:1313/categories/draft/">Draft</category>
-      <description>Newtest</description>
+      <description>Film List</description>
     </item>
   </channel>
 </rss>
