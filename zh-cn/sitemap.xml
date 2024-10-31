@@ -7,18 +7,6 @@
     <xhtml:link rel="alternate" hreflang="zh-CN" href="http://localhost:1313/zh-cn/categories/"/>
   </url>
   <url>
-    <loc>http://localhost:1313/zh-cn/tags/draft/</loc>
-    <lastmod>2024-10-30T19:32:54-04:00</lastmod>
-    <xhtml:link rel="alternate" hreflang="en" href="http://localhost:1313/tags/draft/"/>
-    <xhtml:link rel="alternate" hreflang="zh-CN" href="http://localhost:1313/zh-cn/tags/draft/"/>
-  </url>
-  <url>
-    <loc>http://localhost:1313/zh-cn/categories/draft/</loc>
-    <lastmod>2024-10-30T19:32:54-04:00</lastmod>
-    <xhtml:link rel="alternate" hreflang="en" href="http://localhost:1313/categories/draft/"/>
-    <xhtml:link rel="alternate" hreflang="zh-CN" href="http://localhost:1313/zh-cn/categories/draft/"/>
-  </url>
-  <url>
     <loc>http://localhost:1313/zh-cn/posts/</loc>
     <lastmod>2024-10-30T19:32:54-04:00</lastmod>
     <xhtml:link rel="alternate" hreflang="en" href="http://localhost:1313/posts/"/>
@@ -29,6 +17,14 @@
     <lastmod>2024-10-30T19:32:54-04:00</lastmod>
     <xhtml:link rel="alternate" hreflang="en" href="http://localhost:1313/tags/"/>
     <xhtml:link rel="alternate" hreflang="zh-CN" href="http://localhost:1313/zh-cn/tags/"/>
+  </url>
+  <url>
+    <loc>http://localhost:1313/zh-cn/categories/%E7%AC%94%E8%AE%B0/</loc>
+    <lastmod>2024-10-30T19:32:54-04:00</lastmod>
+  </url>
+  <url>
+    <loc>http://localhost:1313/zh-cn/tags/%E7%94%B5%E5%BD%B1/</loc>
+    <lastmod>2024-10-30T19:32:54-04:00</lastmod>
   </url>
   <url>
     <loc>http://localhost:1313/zh-cn/posts/7a399a8/</loc>
@@ -75,10 +71,6 @@
     <lastmod>2024-10-25T22:15:08-04:00</lastmod>
     <xhtml:link rel="alternate" hreflang="en" href="http://localhost:1313/about/"/>
     <xhtml:link rel="alternate" hreflang="zh-CN" href="http://localhost:1313/zh-cn/about/"/>
-  </url>
-  <url>
-    <loc>http://localhost:1313/zh-cn/categories/%E7%AC%94%E8%AE%B0/</loc>
-    <lastmod>2024-10-25T01:20:48-04:00</lastmod>
   </url>
   <url>
     <loc>http://localhost:1313/zh-cn/posts/c8e0ceb/</loc>
@@ -141,10 +133,6 @@
     <lastmod>2023-12-05T17:47:41-04:00</lastmod>
     <xhtml:link rel="alternate" hreflang="en" href="http://localhost:1313/posts/9ac6a2d/"/>
     <xhtml:link rel="alternate" hreflang="zh-CN" href="http://localhost:1313/zh-cn/posts/ca5514e/"/>
-  </url>
-  <url>
-    <loc>http://localhost:1313/zh-cn/tags/%E7%94%B5%E5%BD%B1/</loc>
-    <lastmod>2023-11-23T16:51:20-04:00</lastmod>
   </url>
   <url>
     <loc>http://localhost:1313/zh-cn/categories/%E7%A0%94%E7%A9%B6%E8%AE%BA%E6%96%87/</loc>

@@ -7,8 +7,16 @@
     <generator>Hugo 0.136.4 &amp; FixIt v0.3.13</generator>
     <language>en</language>
     <copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright>
-    <lastBuildDate>Thu, 23 Nov 2023 16:51:20 -0400</lastBuildDate>
+    <lastBuildDate>Wed, 30 Oct 2024 19:32:54 -0400</lastBuildDate>
     <atom:link href="http://localhost:1313/tags/film/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Film List</title>
+      <link>http://localhost:1313/posts/02ecbf4/</link>
+      <pubDate>Wed, 30 Oct 2024 19:32:54 -0400</pubDate><author>zl4061@nyu.edu (Shannon Li)</author>
+      <guid>http://localhost:1313/posts/02ecbf4/</guid>
+      <category domain="http://localhost:1313/categories/note/">Note</category>
+      <description>Film List</description>
+    </item>
     <item>
       <title>Standing Over the Glass Bridge Above the World&#39;s Rift</title>
       <link>http://localhost:1313/posts/baaad8c/</link>
